@@ -1,11 +1,11 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device lavender
+%define device whyred
 %define vendor xiaomi
 
 %define vendor_pretty Xiaomi
-%define device_pretty Redmi Note 7
+%define device_pretty Redmi Note 5
 
 %define installable_zip 1
 
